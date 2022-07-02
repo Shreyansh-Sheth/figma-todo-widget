@@ -1,0 +1,13 @@
+{
+  "name": "todo",
+  "id": "1124941409950860284",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0",
+  "ui": "ui.html"
+}
